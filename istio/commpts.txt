@@ -1,0 +1,7 @@
+mcsvc-dev.dynatracelabs.com
+sg-us-east-1-18-204-47-170-cluster-acceptancee2e.sprint.ruxitlabs.com
+sg-us-east-1-18-233-145-180-cluster-acceptancee2e.sprint.ruxitlabs.com
+sg-us-east-1-18-209-202-15-cluster-acceptancee2e.sprint.ruxitlabs.com
+sg-us-east-1-52-4-169-68-cluster-acceptancee2e.sprint.ruxitlabs.com
+sg-us-east-1-52-21-113-106-cluster-acceptancee2e.sprint.ruxitlabs.com
+sg-us-east-1-52-5-76-57-cluster-acceptancee2e.sprint.ruxitlabs.com

@@ -1,4 +1,4 @@
-apiVersion: networking.istio.io/v1alpha3
+	apiVersion: networking.istio.io/v1alpha3
 kind: VirtualService
 metadata:
   name: sockshop
@@ -18,8 +18,12 @@ spec:
     - destination:
         host: front-end.production.svc.cluster.local
         subset: v1
-      weight: 100 #v1
+      weight: 33 #v1
     - destination:
         host: front-end.production.svc.cluster.local
         subset: v2
-      weight: 0 #v2
+      weight: 33 #v2
+    - destination:
+        host: front-end.production.svc.cluster.local
+        subset: v3
+      weight: 34 #v3
